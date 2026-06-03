@@ -32,7 +32,7 @@ img {
 /* Header — mobile-first */
 #site-header {
   background-color: hsl(220, 40%, 20%);
-  background-image: url("img/header-bg.jpg");
+  background-image: url('../img/header-bg.jpg');
   background-size: cover;
   background-position: center;
   color: #ffffff;
